@@ -2,7 +2,7 @@
 //  QuoteGenAppDelegate.m
 //  QuoteGen
 //
-//  Created by Qwiki on 1/2/13.
+//  Created by Constantine Antonakos on 1/2/13.
 //  Copyright (c) 2013 Qwiki. All rights reserved.
 //
 
